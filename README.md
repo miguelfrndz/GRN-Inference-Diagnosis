@@ -1,6 +1,6 @@
 # GRN Inference Diagnosis
 
-Code for the paper **"When Does Gene Regulatory Network Inference Break? A Controlled Diagnostic Study of Causal and Correlational Methods on Single-Cell Data"**.
+Code for the paper **"When Does Gene Regulatory Network Inference Break? A Controlled Diagnostic Study of Causal and Correlational Methods on Single-Cell Data"** (preprint available at [arXiv:2605.04930](https://arxiv.org/abs/2605.04930)).
 
 The repository compares representative gene regulatory network (GRN) inference methods under controlled single-cell pathologies: dropout, latent confounding, cell-type mixing, feedback, graph density, sample size, and pseudotime drift.
 
@@ -118,6 +118,18 @@ The benchmark includes:
 - NOTEARS.
 
 Undirected and directed AUPRC are reported for every method. Error decomposition is computed at a top-K threshold where K is the number of true directed edges.
+
+## Citation
+
+If you use this code in your research, please cite:
+```bibtex
+@article{fernandez2026does,
+    title={When Does Gene Regulatory Network Inference Break? A Controlled Diagnostic Study of Causal and Correlational Methods on Single-Cell Data},
+    author={Fernandez-de-Retana, Miguel and Sanchez-Corcuera, Ruben and Zulaika, Unai and Bilbao-Jayo, Aritz and Almeida, Aitor},
+    year={2026}
+    journal={arXiv preprint arXiv:2605.04930},
+}
+```
 
 ## License
 
