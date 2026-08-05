@@ -123,7 +123,7 @@ Undirected and directed AUPRC are reported for every method. Error decomposition
 
 If you use this code in your research, please cite:
 ```bibtex
-@article{fernandez2026does,
+@article{fernandez2026causalGRN,
     title={When Does Gene Regulatory Network Inference Break? A Controlled Diagnostic Study of Causal and Correlational Methods on Single-Cell Data},
     author={Fernandez-de-Retana, Miguel and Sanchez-Corcuera, Ruben and Zulaika, Unai and Bilbao-Jayo, Aritz and Almeida, Aitor},
     year={2026}
