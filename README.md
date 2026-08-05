@@ -126,8 +126,8 @@ If you use this code in your research, please cite:
 @article{fernandez2026causalGRN,
     title={When Does Gene Regulatory Network Inference Break? A Controlled Diagnostic Study of Causal and Correlational Methods on Single-Cell Data},
     author={Fernandez-de-Retana, Miguel and Sanchez-Corcuera, Ruben and Zulaika, Unai and Bilbao-Jayo, Aritz and Almeida, Aitor},
-    year={2026}
-    journal={arXiv preprint arXiv:2605.04930},
+    year={2026},
+    journal={arXiv preprint arXiv:2605.04930}
 }
 ```
 
